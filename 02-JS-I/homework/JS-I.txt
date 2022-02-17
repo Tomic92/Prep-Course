@@ -1,0 +1,20 @@
+ * Variables
+Las variables son formas de guardar todo tipo de valores, para despues poder 'llamar' a esa variable 
+y usar o modificar su contenido.
+
+ * Strings
+Un String es un conjunto de caracteres, ya sean números, letras o simbolos, que se guardan tal como se introducen, 
+o sea, en caso de que sean números no se pueden utilizar para operaciones matematicas.
+
+ * Funciones (argumentos, `return`)
+Las funciones son objetos que nos permiten modificar y utulizar variables, en un ambito cerrado. Las funciones 
+utilizan argumentos, que sirven para cuando invoquemos a nuestra funcion, esta utilize lo argumentos que le pasamos 
+en las operaciones que constituyan a la misma. Dentro de una funcion se utliza la declaracion de ´return´ para 'mostrar'
+el resultado de la funcion.
+
+ * Declaraciones `if`
+La declaracion if, literalmente traducido sería 'sí', es un operador que nos permite comparar dos o más cosas entres si, y 
+realizar una o más acciones dependiendo lo que busquemos hacer.
+
+ * Valores booleanos (`true`, `false`)
+Un valor booleano solo puede ser verdadero o falso, y sirven para contener uno de esos valores.
