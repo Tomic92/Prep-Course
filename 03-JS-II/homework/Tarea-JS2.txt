@@ -1,0 +1,9 @@
+* `for`
+El `for` es un tipo de bucle(una funcion que se ejecuta hasta que se cumpla una condicion), que funciona de la siguiente 
+manera, se asigna una variable, se le pone una condicion a esa variable (ser mayor, menor, igual, etc.), y 
+luego se modifica la variable, hasta que se cumpla la condicion que se le impuso.
+
+* `&&`, `||`, `!`
+Los "`&&`, `||`, `!`" son operadores logicos, && significa que se tiene que cumplir con las condiciones impuestas antes y 
+despues del operador, || significa que se tiene que cumplir con una de las condiciones antes o despues del operador. Y 
+el operador ! es el operador contrario, se usa para cuando se quiere lo opuesto de lo que se pide.
