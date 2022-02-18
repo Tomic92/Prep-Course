@@ -1,0 +1,2 @@
+* Arrays
+Son listas ordenadas, no por su contenido, pero por el orden en el que se fueron ingresando.
