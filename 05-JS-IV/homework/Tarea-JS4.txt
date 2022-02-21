@@ -1,0 +1,18 @@
+    * Objetos
+    Un objeto es como un Array, pero en lugar de ser una lista ordenada de elementos, un objeto es una lista de elementos 
+    relacionados en una sola cosa.
+
+	* Propiedades
+    Las propiedades son los elementos dentro de los objetos.
+
+	* Métodos
+    Los métodos son las funciones dentro de los objetos.
+
+	* Bucle `for…in`
+    Es un bucle especial que se usa para los objetos. Debido a que los elementos del objeto no poseen indice numerico
+    el bucle for convencional no sirve para los objetos.
+
+	* Notación de puntos vs notación de corchetes
+    La notacion de puntos se utiliza usando el nombre del objeto seguido por un punto y el nombre de la propiedad 
+    (ej. objeto.propiedad). Mientras que la notacion de corchetes se utiliza con el nombre del objeto seguido del
+    nombre de la propiedad entre comillas entre corchetes (ej.objeto ['propiedad']).
