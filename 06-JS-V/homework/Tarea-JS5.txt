@@ -1,0 +1,6 @@
+* `prototype`
+Es una clase de referencia al objeto, que puede guardar más propiedades, para luego ser llamadas por los objetos.
+
+* _Constructors_ (de Clases)
+Los constructors son obetos creadores de objetos, basicamente son como una plantilla donde se escribe el codigo que va a
+ser usado por los objetos que se creen por ese medio.
