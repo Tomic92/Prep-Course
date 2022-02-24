@@ -1,0 +1,2 @@
+* Funciones Callback
+Es la capacidad que tiene JS de usar funcioes como argumentos para otra funcion.
